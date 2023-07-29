@@ -11,5 +11,4 @@ Borrar uma imagem que possua 3 canais de cores (RGB)
 - Normalizar a Imagem
 - Separar o canais Red, Green e Blue
 - Aplicar o kernel Gaussian Blur em cada canal de cor, utilizando o padding Valid
-  ![Figure2](https://github.com/VladeMelo/kernel-blur/assets/63476377/1b91043c-b39f-4f00-a728-eac4eb4d98da)
 - Juntar o 3 canais de cores novamente com seus novos valores e ver a imagem resultante
