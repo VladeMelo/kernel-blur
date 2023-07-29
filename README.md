@@ -1,4 +1,6 @@
 <h1 align="center">Kernel for Blurring<h1>
+  
+![add0padding](https://github.com/VladeMelo/kernel-blur/assets/63476377/78dd8139-4cd3-4094-af43-2abc27a94f85)
 
 ## 1. Objetivo
 
